@@ -1,4 +1,4 @@
-#jquery.smartresize - v0.0.1
+#jquery.smartresize - v1.0.0
 
 Debounce resize handlers till the user stops resizing the screen
 
