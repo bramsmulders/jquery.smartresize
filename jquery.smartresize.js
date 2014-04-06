@@ -1,4 +1,4 @@
-/*  Smart resize - v0.0.1
+/*  Smart resize - v1.0.0
     MIT Licence
     Debouncing resize function
     @author: Bram Smulders - @bramsmulders
